@@ -232,7 +232,7 @@ file:hdf5/h5_crtdat.py
 file:hdf5/h5_rdwt.py
 *** Create an attribute
 file:hdf5/h5_crtatt.py
-*** Create a group 
+*** Create a group
 file:hdf5/h5_crtgrp.py
 *** Create groups in a file using absolute and relative paths
 file:hdf5/h5_crtgrpar.py
@@ -248,6 +248,6 @@ file:hdf5/h5_cmprss.py
 
 * Spark
 sudo apt-get install spark
-sudo pip install 
+sudo pip install
 * Perceval
-+ file:perceval/perceval_git_counter.py
++ [[file:perceval/perceval_git_counter.py]]
